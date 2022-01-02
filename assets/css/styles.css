@@ -219,7 +219,7 @@ img{
 .about__img{
     display: flex;
     justify-content: center;
-    padding-top: 0rem;
+    padding-top: 2.75rem;
     width: 120px;
     height: 80px;
     background-color: var(--first-color);

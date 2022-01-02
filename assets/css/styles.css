@@ -478,7 +478,8 @@ img{
 }
 
 /* For tall screens on mobiles y desktop*/
-@media screen and (min-height: 721px) {
+/* increase 721px to 845px to include iphone 13 pro*/
+@media screen and (min-height: 845px) {
     .home__container {
         height: 640px;
     }
